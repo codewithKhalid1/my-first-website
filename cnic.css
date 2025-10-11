@@ -1,0 +1,81 @@
+.uk{
+width:480px ;
+height: 320px;
+border: 1px solid black;
+border-radius: 5%;
+margin-left: 400px;
+margin-top: 100px;
+background-color: rgb(237, 253, 237);
+}
+
+.ak{
+width: 167px;
+height: 0.1px;
+border: 1px solid black;
+margin-left: 200px;
+margin-top: -20px;
+}
+
+.u{
+width: 210px;
+height: 0.1px;
+border: 1px solid black;
+margin-left: 85px;
+margin-top: -10px;
+}
+
+.k{
+width: 210px;
+height: 0.1px;
+border: 1px solid black;
+margin-left: 85px;
+margin-top: -10px;
+}
+
+.w{
+width: 0.1px;
+height: 50px;
+border: 1px solid black;
+margin-left: 150px;
+margin-top: -70px;
+}
+
+.y{
+width: 280px;
+height: 0.1px;
+border: 1px solid black;
+margin-left: 85px;
+margin-top: -15px;
+}
+
+.o{
+width: 0.1px;
+height: 37px;
+border: 1px solid black;
+margin-left: 200px;
+margin-top: -55px;
+}
+
+.p{
+width: 280px;
+height: 0.1px;
+border: 1px solid black;
+margin-left: 85px;
+margin-top: -15px;
+}
+
+.l{
+width: 0.1px;
+height: 42px;
+border: 1px solid black;
+margin-left: 200px;
+margin-top: -57px;
+}
+
+.r{
+width: 80px;
+height: 90px;
+border: 1px solid black;
+margin-top: -200px;
+margin-left: 350px;
+}

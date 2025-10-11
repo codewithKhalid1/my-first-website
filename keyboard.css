@@ -1,0 +1,1023 @@
+.main{
+    width: 931px;
+    height: 235px;
+    border: 1px solid black;
+}
+.esc{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+}
+.esc p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.f1{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left: 55px;
+}
+.f1 p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+
+.f2{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left: 110px;
+}
+.f2 p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.f3{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left: 165px;
+}
+.f3 p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.f4{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left: 220px;
+}
+.f4 p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.f5{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left: 275px;
+}
+.f5 p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.f6{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left: 330px;
+}
+.f6 p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.f7{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left: 385px;
+}
+.f7 p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.f8{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left: 440px;
+}
+.f8 p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.f9{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left: 495px;
+}
+.f9 p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.f10{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left: 550px;
+}
+.f10 p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.f11{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left: 605px;
+}
+.f11 p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.f12{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left: 660px;
+}
+.f12 p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.tv{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left: 715px;
+}
+.tv p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.call{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left: 770px;
+}
+.call p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.end{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left: 825px;
+}
+.end p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.delete{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:880px;
+}
+.delete p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.tab{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:px;
+    margin-top: 10px;
+}
+.tab p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.Q{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:55px;
+    margin-top:10px;
+}
+.Q p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.W{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:110px;
+    margin-top: 10px;
+}
+.W p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.E{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:165px;
+    margin-top: 10px;
+}
+.E p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.R{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:220px;
+    margin-top: 10px;
+}
+.R p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.T{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:275px;
+    margin-top: 10px;
+}
+.T p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.Y{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:330px;
+    margin-top: 10px;
+}
+.Y p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.U{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:385px;
+    margin-top: 10px;
+}
+.U p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.I{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:440px;
+    margin-top: 10px;
+}
+.I p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.O{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:495px;
+    margin-top: 10px;
+}
+.O p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.P{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:550px;
+    margin-top: 10px;
+}
+.P p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.bracket {
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:605px;
+    margin-top: 10px;
+}
+.bracket p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 3px;
+}
+
+.hash {
+    position:absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:660px;
+    margin-top: 10px;
+}
+
+.hash p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.backspace {
+    position: absolute;
+    width: 80px;
+    height: 40px;
+    background-color: black;
+    margin-left:715px;
+    margin-top: 10px;
+}
+.backspace p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.pg {
+    position: absolute;
+    width: 63px;
+    height: 40px;
+    background-color: black;
+    margin-left:800px;
+    margin-top: 10px;
+}
+.pg p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+
+.num {
+    position: absolute;
+    width: 60px;
+    height: 40px;
+    background-color: black;
+    margin-left:870px;
+    margin-top: 10px;
+}
+.num p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.caps{
+    position: absolute;
+    width: 70px;
+    height: 40px;
+    background-color: black;
+    margin-left: px;
+    margin-top: 20px;
+}
+.caps p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.A{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:75px;
+    margin-top: 20px;
+}
+.A p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.S{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:130px;
+    margin-top: 20px;
+}
+.S p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.D{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:185px;
+    margin-top: 20px;
+}
+.D p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.F{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:240px;
+    margin-top: 20px;
+}
+.F p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.G{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:295px;
+    margin-top: 20px;
+}
+.G p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.H{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:350px;
+    margin-top: 20px;
+}
+.H p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.J{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:405px;
+    margin-top: 20px;
+}
+.J p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.K{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:460px;
+    margin-top: 20px;
+}
+.K p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.L{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:515px;
+    margin-top: 20px;
+}
+.L p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.enter{
+    position: absolute;
+    width: 90px;
+    height: 40px;
+    background-color: black;
+    margin-left:570px;
+    margin-top: 20px;
+}
+.enter p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.insert{
+    position: absolute;
+    width: 60px;
+    height: 40px;
+    background-color: black;
+    margin-left:665px;
+    margin-top: 20px;
+}
+.insert p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.home{
+    position: absolute;
+    width: 60px;
+    height: 40px;
+    background-color: black;
+    margin-left:730px;
+    margin-top: 20px;
+}
+.home p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.pause{
+    position: absolute;
+    width: 60px;
+    height: 40px;
+    background-color: black;
+    margin-left:800px;
+    margin-top: 20px;
+}
+.pause p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.resume{
+    position: absolute;
+    width: 65px;
+    height: 40px;
+    background-color: black;
+    margin-left:865px;
+    margin-top: 20px;
+}
+.resume p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.shift{
+    position: absolute;
+    width: 110px;
+    height: 40px;
+    background-color: black;
+    margin-left:px;
+    margin-top: 30px;
+}
+.shift p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.Z{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:115px;
+    margin-top: 30px;
+}
+.Z p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.X{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:170px;
+    margin-top: 30px;
+}
+.X p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+
+.C{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:225px;
+    margin-top: 30px;
+}
+.C p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.V{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:280px;
+    margin-top: 30px;
+}
+.V p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.B{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:335px;
+    margin-top: 30px;
+}
+.B p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.N{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:390px;
+    margin-top: 30px;
+}
+.N p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.M{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-left:445px;
+    margin-top: 30px;
+}
+.M p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.lock{
+    position: absolute;
+    width: 60px;
+    height: 40px;
+    background-color: black;
+    margin-left:500px;
+    margin-top: 30px;
+}
+.lock p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.shift2{
+    position: absolute;
+    width: 110px;
+    height: 40px;
+    background-color: black;
+    margin-left:565px;
+    margin-top: 30px;
+}
+.shift2 p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.shutdown{
+    position: absolute;
+    width: 70px;
+    height: 40px;
+    background-color: black;
+    margin-left:680px;
+    margin-top: 30px;
+}
+.shutdown p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.restart{
+    position: absolute;
+    width: 70px;
+    height: 40px;
+    background-color: black;
+    margin-left:755px;
+    margin-top: 30px;
+}
+.restart p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.sleep{
+    position: absolute;
+    width: 95px;
+    height: 40px;
+    background-color: black;
+    margin-left:834px;
+    margin-top: 30px;
+}
+.sleep p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.ctrl{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-top: 40px;
+}
+.ctrl p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.fn{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-top: 40px;
+    margin-left: 55px;
+}
+.fn p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.window{
+    position: absolute;
+    width: 59px;
+    height: 40px;
+    background-color: black;
+    margin-top: 40px;
+    margin-left:110px;
+}
+.window p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.alt{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-top: 40px;
+    margin-left: 175px;
+}
+.alt p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.space{
+    position: absolute;
+    width: 265px;
+    height: 40px;
+    background-color: black;
+    margin-top: 40px;
+    margin-left: 230px;
+}
+.space p{
+    color: white;
+    margin-top: 10px;
+    margin-left: 115px;
+}
+
+.alt2{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-top: 40px;
+    margin-left: 500px;
+}
+.alt2 p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.paste{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-top: 40px;
+    margin-left: 555px;
+}
+.paste p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.ctrl2{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-top: 40px;
+    margin-left: 610px;
+}
+.ctrl2 p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.left{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-top: 40px;
+    margin-left: 665px;
+}
+.left p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.up{
+    position: absolute;
+    width: 50px;
+    height: 20px;
+    background-color: black;
+    margin-top: 40px;
+    margin-left: 720px;
+}
+.up p{
+    color: white;
+    margin-top: 1px;
+    margin-left:11px;
+}
+
+.down{
+    position: absolute;
+    width: 50px;
+    height: 20px;
+    background-color: black;
+    margin-top: 62px;
+    margin-left: 720px;
+}
+.down p{
+    color: white;
+    margin-top: 3px;
+    margin-left: 5px;
+}
+
+.right{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    margin-top: 40px;
+    margin-left: 775px;
+}
+.right p{
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.settings{
+    position: absolute;
+    width: 98px;
+    height: 40px;
+    background-color: black;
+    margin-top: 40px;
+    margin-left: 832px;
+}
+.settings p{
+    color: white;
+    margin-top: 10px;
+    margin-left:25px;
+}

@@ -1,0 +1,129 @@
+.main{
+width: 500px;
+height: 500px;
+border: 1px solid black;
+border-radius: 100%;
+background-color: blue;
+}
+
+.ab{
+position: absolute;    
+width: 350px;
+height: 350px;
+border: 1px solid black;
+border-radius: 100%;
+margin-left: 75px;
+margin-top: 75px;
+background-color: white;
+}
+
+.abc p{
+ color: black;
+    margin-top: 10px;
+    margin-left: 150px;
+    font-size: 40px;
+}
+
+.b p{
+ color: black;
+    margin-top: -70px;
+    margin-left: 230px;
+    font-size: 40px;
+}
+
+.c p{
+ color: black;
+    margin-top: -40px;
+    margin-left: 280px;
+    font-size: 40px;
+}
+
+.d p{
+ color: black;
+    margin-top: -25px;
+    margin-left: 310px;
+    font-size: 40px;
+}
+
+.e p{
+ color: black;
+    margin-top: -13px;
+    margin-left: 305px;
+    font-size: 40px;
+}
+
+.f p{
+ color: black;
+    margin-top: -25px;
+    margin-left: 255px;
+    font-size: 40px;
+}
+
+.g p{
+ color: black;
+    margin-top: -55px;
+    margin-left: 175px;
+    font-size: 40px;
+}
+
+.h p{
+ color: black;
+    margin-top: -100px;
+    margin-left: 105px;
+    font-size: 40px;
+}
+
+.i p{
+ color: black;
+    margin-top: -125px;
+    margin-left: 50px;
+    font-size: 40px;
+}
+
+.j p{
+ color: black;
+    margin-top: -155px;
+    margin-left: 20px;
+    font-size: 40px;
+}
+
+.k p{
+ color: black;
+    margin-top: -160px;
+    margin-left: 30px;
+    font-size: 40px;
+}
+
+.l p{
+ color: black;
+    margin-top: -147px;
+    margin-left: 72px;
+    font-size: 40px;
+}
+
+.y{
+width: 10px;
+height: 10px;
+border: 1px solid black;
+border-radius: 100%;
+background-color: black;
+margin-left: 170px;
+margin-top: 95px;
+}
+
+.z{
+width: 150px;
+height: 3px;
+border: solid black;
+background-color: black;
+margin-left: 20px;
+margin-top: -10px;
+}
+
+.w{
+width: 3px;
+height:100px ;
+background-color: black;
+border: 1px solid black;
+margin-left: 175px;
+}

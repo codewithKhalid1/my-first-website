@@ -1,0 +1,42 @@
+.uk{
+width: 100%;
+height: 100vh;
+background-image: url(wolf.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+
+.uk{
+position: absolute;
+color: white;
+text-align: center;
+margin-left: 350px;
+margin-top: 150px;
+}
+
+.a h1{
+font-size: 50px;
+font-family: sans-serif;
+
+}
+.a p{
+font-size: 20px;
+font-family: sans-serif;
+margin-top: -20px;
+color: orangered;
+}
+.a button{
+    width: 150px;
+    height: 50px;
+    background-color: transparent;
+    color:  rgb(255, 255, 255);
+    border-color: white;
+    font-size: 20px;
+}
+.a button:hover{
+    background-color:brown;
+    color: white;
+    transition: 1s;
+    border-radius: 20px;
+}

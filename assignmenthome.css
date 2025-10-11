@@ -1,0 +1,62 @@
+.main{
+ border: 1px solid black;
+width: 1250px;
+height: 650px;
+background-color: black;
+}
+.ab{
+width:230px ;
+height: 230px;
+border: 40px solid rgb(38, 250, 38);
+margin-top: 100px;
+margin-left: 80px;
+border-radius: 100%;
+}
+.main h1{
+color: rgb(71, 245, 51);
+font-size: 30px;
+margin-top: -340px;
+margin-left: 500px;
+}
+
+.uv{
+color: rgb(121, 203, 244);
+font-size: 30px;
+margin-top: 80px;
+margin-left: 500px;
+}
+
+.x p{
+color: white;
+font-size: 20px;
+margin-left: 500px;}
+
+.y p{
+color: white;
+font-size: 20px;
+margin-left: 500px;}
+
+.z p{
+color: white;
+font-size: 20px;
+margin-left: 500px;
+}
+
+.main button{
+    width: 100px;
+    height: 40px;
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    margin-left: 500px;
+}
+
+
+
+.main button:hover{
+    background-color: orangered;
+    color: white;
+    transition: 1s;
+    border-radius: 20px;
+    margin-left: 500px;
+}

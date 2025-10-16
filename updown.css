@@ -1,0 +1,104 @@
+.a{
+  font-size: 30px;
+  font-weight: bolder;
+  position: absolute;
+  animation-name: abc;
+  animation-duration: 3s;
+  animation-delay: 1s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  margin-left:50px;
+}
+
+@keyframes abc {
+  0%{color: red; top: 0px; left: 0px;}
+  100%{color: yellow; top: 400px; left: 0px;} 
+}
+
+.b{
+  font-size: 30px;
+  font-weight: bolder;
+  position: absolute;
+  animation-name: r;
+  animation-duration: 3s;
+  animation-delay: 1s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  margin-left:400px;
+}
+
+@keyframes r {
+  0%{color: blue; top: 0px; left: 0px;}
+  100%{color: green; top: 400px; left: 0px;} 
+}
+
+.re{
+  font-size: 30px;
+  font-weight: bolder;
+  position: absolute;
+  animation-name: u;
+  animation-duration: 3s;
+  animation-delay: 1s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  margin-left:800px;
+}
+
+@keyframes u {
+  0%{color: blue; top: 0px; left: 0px;}
+  100%{color: green; top: 400px; left: 0px;} 
+}
+
+.bm{
+  font-size: 30px;
+  font-weight: bolder;
+  position: absolute;
+  animation-name: v;
+  animation-duration: 3s;
+  animation-delay: 1s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  margin-left:230px;
+  margin-top:400px ;
+}
+
+@keyframes v {
+  0%{color: blue; top: 0px; left: 0px;}
+  100%{color: green; top:-400px; left: 0px;} 
+}
+
+.ma{
+  font-size: 30px;
+  font-weight: bolder;
+  position: absolute;
+  animation-name: v;
+  animation-duration: 3s;
+  animation-delay: 1s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  margin-left:630px;
+  margin-top:400px ;
+}
+
+@keyframes v {
+  0%{color: blue; top: 0px; left: 0px;}
+  100%{color: green; top:-400px; left: 0px;} 
+}
+
+.mah{
+  font-size: 30px;
+  font-weight: bolder;
+  position: absolute;
+  animation-name: v;
+  animation-duration: 3s;
+  animation-delay: 1s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  margin-left:970px;
+  margin-top:400px ;
+}
+
+@keyframes v {
+  0%{color: blue; top: 0px; left: 0px;}
+  100%{color: green; top:-400px; left: 0px;} 
+}

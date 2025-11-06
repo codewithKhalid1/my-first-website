@@ -557,30 +557,108 @@ margin-top:8px;
 margin-left: 40px;
 }
 
-.an{
-margin-top: 900px;
-margin-left: 50px;
-font-family: sans-serif;
+.am{
+width: 100%;
+height: 450px;
+border: 1px solid black;
+margin-top: 930px;
 }
-.ana img{
-width:400px ;
-height: 250px;
-margin-top:20px; 
-margin-left: 50px;
+.ama img{
+width:350px ;
+height: 270px;
 }
-.anb h1{
-margin-top: 20px;
-margin-left: 50px;
+.amb img{
+position: absolute;
+width:350px ;
+height: 270px;
+margin-top: -274px;
+margin-left:450px ;
 }
-.anb p{
-margin-left: 50px;
-color: rgb(74, 74, 74);
-font-family:sans-serif;
-font-size: 15px;
+.amb h1{
+    position: absolute;
+    margin-left: 430px;
 }
-.anc img{
-width:400px ;
-height: 250px;
-margin-top:px; 
-margin-left:;
+.amc img{
+ position: absolute;   
+width: 350px;
+height: 270px;
+margin-top:-274px ;
+margin-left:880px ;
+}
+.amc h1{
+position: absolute;
+margin-left: 950px;
+}
+
+.ame{
+position: absolute;
+margin-left:440px ;
+margin-top: -130px;
+}
+.amf{
+position: absolute;
+margin-top:-140px ;
+margin-left:930px ;
+}
+.us{
+width: 100%;
+height: 550px;
+border: 1px solid black;
+}
+.us img{
+position: absolute;
+width: 350px;
+height: 400px;
+margin-left:50px ;
+}
+.us h1{
+position: absolute;
+margin-top: 410px;
+margin-left: 80px;
+}
+.usb img{
+position: absolute;
+width: 350px;
+height: 400px;
+margin-left: 460px;
+}
+.usb h1{
+position: absolute;
+margin-left: 500px;
+
+}
+.usc img{
+position: absolute;
+width: 350px;
+height: 400px;
+margin-left: 870px;
+}
+.usc h1{
+position: absolute;
+margin-left: 900px;
+}
+.main .usg{
+width:1260px;
+height: 350px;
+border: 1px solid rgb(158, 150, 150);
+margin-top:100px ;
+background-color: rgb(246, 252, 252);
+}
+.usg h1{
+margin-left: 50px;
+margin-top:50px ;
+}
+.ush{
+margin-top: -290px;
+margin-left: 400px;
+}
+.usi h3{
+margin-top:-185px ;
+margin-left:700px ;
+}
+.main1 .usk{
+
+
+
+
 }
